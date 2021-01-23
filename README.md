@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Minh from Viet Nam or you can call me Charlie
 ### 🔭 I’m currently working as Back-end Dev at VYA
 ### 🌱 I’m currently learning ReactJS
 ### 📫 How to reach me: https://www.facebook.com/Noobcoder012/
