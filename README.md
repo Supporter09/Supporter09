@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working as Back-end Dev at VYA
+### 🌱 I’m currently learning ReactJS
+### 📫 How to reach me: https://www.facebook.com/Noobcoder012/
+### ⚡ Fun fact: I like donut and Oreo.
+-->
 <!--
 **Supporter09/Supporter09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
