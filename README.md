@@ -1,29 +1,21 @@
 ![Supporter09](https://github.com/Supporter09/Supporter09/blob/main/banner.png)
-### Hi there 👋, I'm Minh from Viet Nam or you can call me Charlie
-### 🔭 I’m currently working as Back-end Dev at VYA
+<h2 align="center">👋 Hello! I'm Charile.</h1>
+
+### 🔭 I’m currently working as :
+- Back-end Dev at **VYA**
+- Front-end Dev at **Vietcode**
 ### 🌱 I’m currently learning ReactJS
 ### 📫 How to reach me: https://www.facebook.com/Noobcoder012/
-### ⚡ Fun fact: I like donut and Oreo.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supporter09&show_icons=true&theme=tokyonight&hide_border=true)
-<br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Supporter09&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<h2>🏆 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Supporter09&show_icons=true&theme=tokyonight&hide_border=true" alt = "Github Stats" width="48%" align="right">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Supporter09&theme=dark&hide_border=true" alt = "Github Streak" width="48%" >
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 
 
 
-
--->
-<!--
-**Supporter09/Supporter09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
