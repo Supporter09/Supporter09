@@ -8,7 +8,7 @@
 ### 📫 How to reach me: https://www.facebook.com/Noobcoder012/
 
 <h2>🏆 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Supporter09&show_icons=true&theme=tokyonight&hide_border=true" alt = "Github Stats" width="48%" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=Supporter09&title_color=3282b8&icon_color=0f4c75&text_color=bbe1fa&bg_color=1B262C&show_icons=true&hide_border=true" alt = "Github Stats" width="48%" align="right">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Supporter09&theme=dark&hide_border=true" alt = "Github Streak" width="48%" >
 
 ## 🔧 Technologies & Tools
