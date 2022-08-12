@@ -1,12 +1,13 @@
 ![Supporter09](https://github.com/Supporter09/Supporter09/blob/main/banner.png)
-<h2 align="center">👋 Hello! I'm Charile.</h1>
+<h2 align="center">👋 Hello! I'm Charile. ( My friends also call me Rambutan or Chôm in Vietnamese )</h1>
 
 ### 🔭 I’m currently working as :
 - Back-end Dev at **VYA**
-- Front-end Dev at **Vietcode**
+- Product Manager at **Vietcode**
 ### My projects:
 - https://www.vietcode.org/
 - https://steamforyouth.me/
+- https://www.animalshelter.tech/
 ### 📫 How to reach me: https://www.facebook.com/minhpmdev/
 
 <h2>🏆 GitHub Stats</h2>
