@@ -10,9 +10,10 @@
 
 ### My projects:
 - My personal profile: [https://nhat-minh-portfolio.vercel.app/](https://nhat-minh-portfolio.vercel.app/)
-- [https://www.vietcode.org/](https://vietcodenew.netlify.app/)
-- [https://steamforyouth.netlify.app/](https://steamforyouth.netlify.app/)
-- [https://www.animalshelter.tech/](https://www.animalshelter.tech/) ( [Repo](https://github.com/Supporter09/AnimalShelter) )
+- [Vietcode](https://vietcodenew.netlify.app/)
+- [SteamForYouth](https://steamforyouth.netlify.app/)
+- [AnimalShelter](https://www.animalshelter.tech/) ( [Repo](https://github.com/Supporter09/AnimalShelter) )
+- [HRFO Project](https://hrfowdorg.netlify.app/)
 ### 📫 How to reach me: https://www.facebook.com/minhpmdev/
 ### My Youtube Channel: [CatTheDev](https://www.youtube.com/@cat_the_dev)
 
