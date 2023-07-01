@@ -1,13 +1,18 @@
 ![Supporter09](https://github.com/Supporter09/Supporter09/blob/main/banner.png)
 <h2 align="center">👋 Hello! I'm Charile. ( My friends also call me Rambutan or Chôm in Vietnamese )</h1>
 
-### 🔭 I’m currently working as :
-- Back-end Dev at **VYA**
+### 🔭 I’m used to working as :
+- Back-end Dev at **VYA** 
 - Product Manager at **Vietcode**
+- Vice head of Organization at **STEAM for Youth - S4Y**
+### 🔭 I’m currently working as :
+- Head of Programming, Training, and Talent at **CMA Robotics & STEAM Club**
+
 ### My projects:
-- https://www.vietcode.org/
-- https://steamforyouth.me/
-- https://www.animalshelter.tech/ ( [Repo](https://github.com/Supporter09/AnimalShelter) )
+- My personal profile: [https://nhat-minh-portfolio.vercel.app/](https://nhat-minh-portfolio.vercel.app/)
+- [https://www.vietcode.org/](https://vietcodenew.netlify.app/)
+- [https://steamforyouth.netlify.app/](https://steamforyouth.netlify.app/)
+- [https://www.animalshelter.tech/](https://www.animalshelter.tech/) ( [Repo](https://github.com/Supporter09/AnimalShelter) )
 ### 📫 How to reach me: https://www.facebook.com/minhpmdev/
 
 <h2>🏆 GitHub Stats</h2>
