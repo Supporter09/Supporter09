@@ -9,7 +9,7 @@
 - Head of Programming, Training, and Talent at **CMA Robotics & STEAM Club**
 
 ### My projects:
-- My personal profile: [https://nhat-minh-portfolio.vercel.app/](https://nhat-minh-portfolio.vercel.app/)
+- [Personal Portfolio](https://nhat-minh-portfolio.vercel.app/)
 - [Vietcode](https://vietcodenew.netlify.app/)
 - [SteamForYouth](https://steamforyouth.netlify.app/)
 - [AnimalShelter](https://www.animalshelter.tech/) ( [Repo](https://github.com/Supporter09/AnimalShelter) )
