@@ -9,7 +9,7 @@
 - Software Engineer at **Selfomy**
 
 ### My projects:
-- [Testeria](https://www.testeria.games/) ( 2nd Prize IAI Hackathon 2023 )
+- [Testeria](#) ( 2nd Prize IAI Hackathon 2023 )
 - [AnimalShelter](https://animal-shelter-omega.vercel.app/) ( [Repo](https://github.com/Supporter09/AnimalShelter) ) ( 2nd Prize Future Blue Innovation 2022 )
 - [Personal Portfolio](https://nhat-minh-portfolio.vercel.app/)
 - [Vietcode](https://vietcodenew.netlify.app/)
