@@ -6,7 +6,7 @@
 - Product Manager at **Vietcode**
 - Vice head of Organization at **STEAM for Youth - S4Y**
 ### 🔭 I’m currently working as :
-- Head of Programming, Training, and Talent at **CMA Robotics & STEAM Club**
+- Software Engineer at **Selfomy**
 
 ### My projects:
 - [Testeria](https://www.testeria.games/) ( 2nd Prize IAI Hackathon 2023 )
